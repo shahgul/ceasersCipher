@@ -31,5 +31,5 @@ dependencies {
 }
 
 test{
-	useJunitPlateform()
+	useJunitPlatform()
 }
